@@ -1,5 +1,5 @@
 -e git://github.com/magnet-cl/tablib.git@master#egg=tablib
-Django==1.8.18
+Django==1.11.23
 Fabric==1.10.2
 Faker==0.8.3
 bootstrap-admin==0.3.6
